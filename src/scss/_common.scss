@@ -1,0 +1,17 @@
+
+
+
+// Reset
+body {
+  font-family: "Pretendard-400";
+}
+
+a {
+  text-decoration: none;
+  color: $basicText;
+  &:hover{
+    color: $mainColor;
+  }
+}
+
+

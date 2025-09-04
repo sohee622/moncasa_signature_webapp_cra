@@ -1,0 +1,13 @@
+.footer{    
+  
+    p, a {
+        font-size: clamp(12px, 1vw + 10px ,15px);
+   
+    }    
+   
+    strong {
+        font-size: clamp(14px, 1vw + 12px ,20px);
+      
+    }
+
+}

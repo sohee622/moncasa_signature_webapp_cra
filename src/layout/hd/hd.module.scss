@@ -1,0 +1,38 @@
+@import '../../scss/variables';
+
+.gnb {
+
+  .gnb_li_a {
+    font-size: 25px;
+  }
+
+  .gnb_li_a_bold {
+    font-size: 25px;
+  }
+}
+
+.global_bt {
+  font-size: 20px;
+  gap: 5px;
+  padding: 10px 20px;
+  background-color: transparent;
+  border-radius: 50px;
+  border: white solid 1.5px;
+
+
+  svg.global_icon {
+    transition: fill 0.2s ease;
+    color: currentColor;
+  }
+
+  &:hover {
+
+    background-color: white !important;
+    color : $mainColor;
+   
+    
+    svg.global_icon {
+      color: $mainColor;
+    }
+  }
+}
