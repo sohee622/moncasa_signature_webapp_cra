@@ -1,0 +1,289 @@
+{
+  "kr": {
+    "moncasa": {
+      "path": "/moncasa",
+      "label": "몬까사",
+      "page": {
+        "title": "몬까사",
+        "p": "몬까사 소개"
+      }
+    },
+    "products": {
+      "label": "모든제품",
+      "children": {
+        "new": {
+          "path": "/product/new",
+          "label": "신제품",
+          "page": { "title": "신제품", "p": "새로운 제품 목록" }
+        },
+        "sale": {
+          "path": "/product/sale",
+          "label": "할인상품",
+          "page": { "title": "할인상품", "p": "할인 중인 상품" }
+        },
+        "eco": {
+          "path": "/product/eco",
+          "label": "친환경",
+          "page": { "title": "친환경", "p": "친환경 제품" }
+        },
+        "sofa": {
+          "path": "/product/sofa",
+          "label": "소파",
+          "page": { "title": "소파", "p": "소파 제품 소개" }
+        },
+        "table": {
+          "path": "/product/table",
+          "label": "테이블",
+          "page": { "title": "테이블", "p": "테이블 제품 소개" }
+        },
+        "lighting": {
+          "path": "/product/lighting",
+          "label": "조명",
+          "page": { "title": "조명", "p": "조명 제품 소개" }
+        }
+      }
+    },
+    "find": {
+      "path": "/find",
+      "label": "취향찾기",
+      "page": { "title": "취향찾기", "p": "나만의 취향을 찾아보세요" }
+    },
+    "event": {
+      "label": "이벤트",
+      "children": {
+        "minimal": {
+          "path": "/event/minimal",
+          "label": "미니멀",
+          "page": { "title": "미니멀 이벤트", "p": "미니멀 라이프스타일" }
+        },
+        "upcycling": {
+          "path": "/event/upcycling",
+          "label": "친환경",
+          "page": { "title": "친환경 이벤트", "p": "업사이클링 이벤트" }
+        },
+        "premium": {
+          "path": "/event/premium",
+          "label": "프리미엄",
+          "page": { "title": "프리미엄 이벤트", "p": "프리미엄 제품 모음" }
+        },
+        "set": {
+          "path": "/event/set",
+          "label": "세트상품",
+          "page": { "title": "세트상품", "p": "세트 상품 소개" }
+        }
+      }
+    },
+    "community": {
+      "label": "커뮤니티",
+      "children": {
+        "review": {
+          "path": "/board/review",
+          "label": "추천",
+          "page": { "title": "추천 리뷰", "p": "고객 추천 리뷰" }
+        },
+        "homemenu": {
+          "path": "/board/homemenu",
+          "label": "매장찾기",
+          "page": { "title": "매장찾기", "p": "가까운 매장을 찾아보세요" }
+        },
+        "service": {
+          "path": "/board/service",
+          "label": "서비스",
+          "page": { "title": "서비스", "p": "고객 지원 서비스" }
+        }
+      }
+    }
+  },
+
+  "en": {
+    "moncasa": {
+      "path": "/en/moncasa",
+      "label": "Moncasa",
+      "page": {
+        "title": "Moncasa",
+        "p": "Introduction to Moncasa"
+      }
+    },
+    "products": {
+      "label": "Products",
+      "children": {
+        "new": {
+          "path": "/en/product/new",
+          "label": "New",
+          "page": { "title": "New Products", "p": "Latest arrivals" }
+        },
+        "sale": {
+          "path": "/en/product/sale",
+          "label": "Sale",
+          "page": { "title": "Sale", "p": "Discounted products" }
+        },
+        "eco": {
+          "path": "/en/product/eco",
+          "label": "Eco",
+          "page": { "title": "Eco", "p": "Eco-friendly products" }
+        },
+        "sofa": {
+          "path": "/en/product/sofa",
+          "label": "Sofa",
+          "page": { "title": "Sofa", "p": "Sofa collection" }
+        },
+        "table": {
+          "path": "/en/product/table",
+          "label": "Table",
+          "page": { "title": "Table", "p": "Table collection" }
+        },
+        "lighting": {
+          "path": "/en/product/lighting",
+          "label": "Lighting",
+          "page": { "title": "Lighting", "p": "Lighting products" }
+        }
+      }
+    },
+    "find": {
+      "path": "/en/find",
+      "label": "Find Your Style",
+      "page": { "title": "Find Your Style", "p": "Discover your taste" }
+    },
+    "event": {
+      "label": "Event",
+      "children": {
+        "minimal": {
+          "path": "/en/event/minimal",
+          "label": "Minimal",
+          "page": { "title": "Minimal Event", "p": "Minimal lifestyle" }
+        },
+        "upcycling": {
+          "path": "/en/event/upcycling",
+          "label": "Eco",
+          "page": { "title": "Eco Event", "p": "Upcycling campaigns" }
+        },
+        "premium": {
+          "path": "/en/event/premium",
+          "label": "Premium",
+          "page": { "title": "Premium Event", "p": "Premium product lineup" }
+        },
+        "set": {
+          "path": "/en/event/set",
+          "label": "Set Products",
+          "page": { "title": "Set Products", "p": "Product bundles" }
+        }
+      }
+    },
+    "community": {
+      "label": "Community",
+      "children": {
+        "review": {
+          "path": "/en/board/review",
+          "label": "Review",
+          "page": { "title": "Customer Reviews", "p": "Recommended reviews" }
+        },
+        "homemenu": {
+          "path": "/en/board/homemenu",
+          "label": "Store Locator",
+          "page": { "title": "Store Locator", "p": "Find nearby stores" }
+        },
+        "service": {
+          "path": "/en/board/service",
+          "label": "Service",
+          "page": { "title": "Service", "p": "Customer support services" }
+        }
+      }
+    }
+  },
+
+  "cn": {
+    "moncasa": {
+      "path": "/cn/moncasa",
+      "label": "蒙卡萨",
+      "page": {
+        "title": "蒙卡萨",
+        "p": "蒙卡萨介绍"
+      }
+    },
+    "products": {
+      "label": "所有产品",
+      "children": {
+        "new": {
+          "path": "/cn/product/new",
+          "label": "新品",
+          "page": { "title": "新品", "p": "最新产品" }
+        },
+        "sale": {
+          "path": "/cn/product/sale",
+          "label": "特价商品",
+          "page": { "title": "特价商品", "p": "折扣商品" }
+        },
+        "eco": {
+          "path": "/cn/product/eco",
+          "label": "环保",
+          "page": { "title": "环保", "p": "环保产品" }
+        },
+        "sofa": {
+          "path": "/cn/product/sofa",
+          "label": "沙发",
+          "page": { "title": "沙发", "p": "沙发系列" }
+        },
+        "table": {
+          "path": "/cn/product/table",
+          "label": "桌子",
+          "page": { "title": "桌子", "p": "桌子系列" }
+        },
+        "lighting": {
+          "path": "/cn/product/lighting",
+          "label": "照明",
+          "page": { "title": "照明", "p": "照明产品" }
+        }
+      }
+    },
+    "find": {
+      "path": "/cn/find",
+      "label": "寻找风格",
+      "page": { "title": "寻找风格", "p": "发现你的风格" }
+    },
+    "event": {
+      "label": "活动",
+      "children": {
+        "minimal": {
+          "path": "/cn/event/minimal",
+          "label": "极简",
+          "page": { "title": "极简活动", "p": "极简生活方式" }
+        },
+        "upcycling": {
+          "path": "/cn/event/upcycling",
+          "label": "环保",
+          "page": { "title": "环保活动", "p": "升级再造活动" }
+        },
+        "premium": {
+          "path": "/cn/event/premium",
+          "label": "高端",
+          "page": { "title": "高端活动", "p": "高端产品系列" }
+        },
+        "set": {
+          "path": "/cn/event/set",
+          "label": "套装商品",
+          "page": { "title": "套装商品", "p": "产品套装" }
+        }
+      }
+    },
+    "community": {
+      "label": "社区",
+      "children": {
+        "review": {
+          "path": "/cn/board/review",
+          "label": "推荐",
+          "page": { "title": "推荐评价", "p": "客户推荐评价" }
+        },
+        "homemenu": {
+          "path": "/cn/board/homemenu",
+          "label": "门店查询",
+          "page": { "title": "门店查询", "p": "查找附近门店" }
+        },
+        "service": {
+          "path": "/cn/board/service",
+          "label": "服务",
+          "page": { "title": "服务", "p": "客户支持服务" }
+        }
+      }
+    }
+  }
+}
